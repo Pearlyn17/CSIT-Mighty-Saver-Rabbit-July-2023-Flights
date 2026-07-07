@@ -23,7 +23,7 @@ Use the following connection address to connect to Mighty Saver Rabbit's MongoDB
 mongodb+srv://userReadOnly:7ZT817O8ejDfhnBM@minichallenge.q4nve1r.mongodb.net/
 ```
 
-💡 You can use [MongoDB Compass](https://www.mongodb.com/products/compass) to view the data directly.
+⭐ You can use [MongoDB Compass](https://www.mongodb.com/products/compass) to view the data directly.
 
 On your API server, you should write two endpoints for Mighty Saver Rabbit's friends to query:
 
