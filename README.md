@@ -1,4 +1,5 @@
-# CSIT Software Engineering Mini Challenge 2023 ˖Ი𐑼⋆
+# CSIT Software Engineering 
+# Mini Challenge 2023 ˖Ი𐑼⋆
 
 ## ˖Ი𐑼⋆ Mighty Saver Rabbit needs your help! ˖Ი𐑼⋆
 As a travel enthusiast, Mighty Saver Rabbit is on the lookout for the cheapest flights and hotels for an upcoming trip with his friends.
