@@ -134,4 +134,4 @@ docker push docker-hub-username/your-image-name:tag
 
 
 # Credits
-[Centre for Strategic Infocomm Technologies (CSIT)](https://www.csit.gov.sg/events/csit-mini-challenge) for their wonderful challenge on Software Engineering.
+[Centre for Strategic Infocomm Technologies (CSIT)](https://www.csit.gov.sg/events/csit-mini-challenge) for this Software Engineering challenge.
