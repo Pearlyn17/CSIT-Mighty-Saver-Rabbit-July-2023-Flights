@@ -13,7 +13,7 @@ Follow the instructions below to complete the challenge and help Mighty Saver Ra
 
 On some paper and pen, Mighty Saver Rabbit eagerly scribbled down his idea:
 
-![Mighty Saver Rabbit's Server Connection](networkDiagram.png)
+<img width="2224" height="566" alt="networkDiagram" src="https://github.com/user-attachments/assets/ae84f89f-c1ea-4359-a9f3-d6860008dec7" />
 
 You will build a `REST API server`, using any programming language of your choice (Python, Ruby, Typescript, to name a few...). Choose something you're comfortable with, or use this opportunity to challenge yourself with a new programming language - that's up to you!
 
