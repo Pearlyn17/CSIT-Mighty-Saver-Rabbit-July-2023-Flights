@@ -1,15 +1,15 @@
-# CSIT Software Engineering Mini Challenge 2023
+# CSIT Software Engineering Mini Challenge 2023 ˖Ი𐑼⋆
 
-## Mighty Saver Rabbit needs your help!
+## ˖Ი𐑼⋆ Mighty Saver Rabbit needs your help! ˖Ი𐑼⋆
 As a travel enthusiast, Mighty Saver Rabbit is on the lookout for the cheapest flights and hotels for an upcoming trip with his friends.
 
 Due to his extensive research, he had a plethora of information scattered across his computer, notebook, and smartphone. He needed a way to consolidate the data and make it accessible to his friends so that they can decide on the flight and accommodation for their trip.
 
 To solve this problem, Mighty Saver Rabbit decided to populate all the information into a database for consolidation. However, he still needs YOUR help to make the information accessible to his friends.
 
-Follow the instructions below to complete the challenge and help Mighty Saver Rabbit!
+Follow the instructions below to complete the challenge and help Mighty Saver Rabbit! 
 
-## REST APIs before you can rest!
+## REST APIs before you can rest! 
 
 On some paper and pen, Mighty Saver Rabbit eagerly scribbled down his idea:
 
@@ -134,4 +134,4 @@ docker push docker-hub-username/your-image-name:tag
 
 
 # Credits
-[Centre for Strategic Infocomm Technologies (CSIT)](https://www.csit.gov.sg/events/csit-mini-challenge) for this Software Engineering challenge.
+[Centre for Strategic Infocomm Technologies (CSIT)](https://www.csit.gov.sg/events/csit-mini-challenge)
