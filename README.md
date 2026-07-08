@@ -8,7 +8,7 @@ Due to his extensive research, he had a plethora of information scattered across
 
 To solve this problem, Mighty Saver Rabbit decided to populate all the information into a database for consolidation. However, he still needs YOUR help to make the information accessible to his friends.
 
-Follow the instructions below to complete the challenge and help *Mighty Saver Rabbit*! 
+Follow the instructions below to complete the challenge and help **Mighty Saver Rabbit**! 
 
 ## REST APIs before you can rest! 
 
